@@ -1,4 +1,4 @@
-# Hello and Welcome to Murillo Costa's GitHub Profile!
+# Welcome to Murillo Costa's GitHub Profile!
 
 #### Biology student finishing graduation and HIGHLY focused on Programming and Web Development studies!
 
