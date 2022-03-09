@@ -10,8 +10,7 @@ I'm currently attending to [Let's Code](https://letscode.com.br) FullStack Devel
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murillocosta&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillocosta&layout=compact&langs_count=7&theme=gruvbox"/>
   <img width="580em" src="http://github-readme-streak-stats.herokuapp.com?user=murillocosta&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727"/>
-  <img width="350em" src="https://github-profile-trophy.vercel.app/?username=murillocosta&row=2&column=3&theme=gruvbox"/>  
-  <img src="https://activity-graph.herokuapp.com/graph?username=murillocosta&theme=gruvbox">
+ 
 </div>
   
   
