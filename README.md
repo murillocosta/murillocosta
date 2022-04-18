@@ -8,20 +8,33 @@ I'm currently attending to [Let's Code](https://letscode.com.br) FullStack Devel
 
 ### 👨‍💻 Programming and Coding languages:
 
-![image](https://user-images.githubusercontent.com/91096652/163877009-ec81b416-d5cd-43d3-b00d-0924ba1c7d72.png)
-![image](https://user-images.githubusercontent.com/91096652/163876964-8a109e57-1290-4913-97a0-0ffc19917213.png)
-![image](https://user-images.githubusercontent.com/91096652/163876940-b2aced08-bc71-414f-94f6-308b70594768.png)
-![image](https://user-images.githubusercontent.com/91096652/163877044-c8055557-d163-443b-b508-0eb676ef288f.png)
-![image](https://user-images.githubusercontent.com/91096652/163877056-8c6b1d72-e02b-40ee-a62a-8ef62a38f467.png)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### 🧰 Frameworks and Libraries:
 
-![image](https://user-images.githubusercontent.com/91096652/163877211-dc84d922-da3f-4c32-ab2c-93312790e295.png)
-![image](https://user-images.githubusercontent.com/91096652/163877225-1007d4e4-b1c2-48e6-bb53-dfeb42534e19.png)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Material](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### 🗄️ Databases and cloud hosting:
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
+### 📫 How to reach me:
 
-
+<a href="mailto:murillo.costa@live.com">![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+<a href="mailto:murillo.alencar@ufba.br">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/murillocosta/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.twitch.tv/feijaodev">![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)</a>
 
 
 <div align="center" vertical-align="top" padding="0">
