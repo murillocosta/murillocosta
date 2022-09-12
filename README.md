@@ -3,8 +3,6 @@
 ### Biology student finishing graduation and HIGHLY focused on Programming and Web Development studies!
 
 
-I'm currently attending to [Let's Code](https://letscode.com.br) FullStack Developer Course.
-
 
 ### 👨‍💻 Programming and Coding languages:
 
