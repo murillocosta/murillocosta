@@ -34,10 +34,9 @@ I'm currently very interested in programming on Google Earth Engine's platform.
 
 ### 📫 How to reach me:
 
-<a href="mailto:murillo.costa@live.com">![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
 <a href="mailto:murilloalcosta@gmail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/murillocosta/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.twitch.tv/feijaodev">![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)</a>
+
 
 
   
