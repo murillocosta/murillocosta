@@ -1,7 +1,13 @@
 # Welcome to Murillo Costa's GitHub Profile!
 
-### Biology student finishing graduation and HIGHLY focused on Programming and Web Development studies!
+### JavaScript and Python Developer!
 
+I'm currently very interested in programming on Google Earth Engine's platform.
+
+##### Curiosities about me:
+- I'm a biologist 🧑🏽‍🔬🧬
+- I love animals and plants 🌱🍄🦎🕷️
+- My dream is to own a farm 🍅🫑🐮
 
 ### [My personal portfolio/Meu portfólio pessoal](https://murillocosta.netlify.app/)
 
