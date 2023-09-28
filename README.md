@@ -9,8 +9,6 @@ I'm currently very interested in programming on Google Earth Engine's platform.
 - I love animals and plants 🌱🍄🦎🕷️
 - My dream is to own a farm 🍅🫑🐮
 
-### [My personal portfolio/Meu portfólio pessoal](https://murillocosta.netlify.app/)
-
 
 ### 👨‍💻 Programming and Coding languages:
 
